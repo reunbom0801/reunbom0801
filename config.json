@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://www.korea.ac.kr/mbshome/mbs/university/images/img/img_1_1_5_1_3_1.gif",
+    "link": "lumanitied23-2",
+    "text": "이혜림"
+  },
+  "text": {
+    "more": "",
+    "intro": "서울 고등학교 교가에 등장한 산과 고등학교의 교목/교화 해보았습니다~",
+    "title": "서울 고"
+  },
+  "legend": {
+    "edgeLabel": "relation",
+    "colorLabel": "class",
+    "nodeLabel": "서울 고등학교 교가/교화/교목 정보"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
